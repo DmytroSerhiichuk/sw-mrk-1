@@ -1,0 +1,20 @@
+flight_id,airline,from_city,from_country,to_city,to_country,dep_date,duration_min,price_eur,note
+FL-8491,Blue Meridian,Lviv,Ukraine,Lisbon,Portugal,2026-04-14,295,56.00,delay=15;by=PassengerReport
+FL-6837,Blue Meridian,Milan,Italy,Budapest,Hungary,22.04.2026,256,58.50,
+FL-9269,Orbit Airways,Lisbon,Portugal,Madrid,Spain,2026-03-27,230,52.50,
+FL-3213,Falcon Jet,Paris,France,Krakow,Poland,12.09.2026,147,198.99,
+FL-8336,Orbit Airways,Prague,Czechia,Vienna,Austria,05.09.2026,203,,delay=10;by=AirWatch
+FL-5241,SkyNord,Riga,Latvia,Warsaw,Poland,26.08.2026,139,55.99,
+FL-1469,Lumen Air,Madrid,Spain,Vienna,Austria,26.09.2026,70,54.00,delay=40;by=AirWatch
+FL-5319,Blue Meridian,Milan,Italy,Prague,Czechia,2026-09-01,261,196.00,
+FL-1199,SkyNord,Krakow,Poland,Oslo,Norway,2026-08-03,89,120.50,
+FL-5993,AeroVista,Lisbon,Portugal,Kyiv,Ukraine,25.09.2026,217,148.00,
+FL-6943,AeroVista,Lisbon,Portugal,Oslo,Norway,2026-06-15,292,130.99,
+FL-5698,SkyNord,Odesa,Ukraine,Krakow,Poland,2026-05-16,146,155.50,
+FL-2227,AeroVista,Oslo,Norway,Lviv,Ukraine,23.05.2026,144,107.00,
+FL-3848,Lumen Air,Oslo,Norway,Prague,Czechia,2026-03-04,316,219.99,delay=25;by=AirWatch
+FL-2530,Blue Meridian,Tallinn,Estonia,Odesa,Ukraine,19.08.2026,88,260.99,
+ fl-1663 ,Zephyr Lines ,VILNIUS,Lithuania,Berlin,Germany,2026-03-27,226,260.99,
+FL-4229,AeroVista,Riga,Latvia,Prague,Czechia,2026-09-06,223,174.00,
+ fl-2530 ,Blue Meridian ,TALLINN,Estonia,Odesa,Ukraine,19.08.2026,88,260.99,
+FL-1663,Zephyr Lines,Vilnius,Lithuania,Berlin,Germany,2026-03-27,226,260.99,
